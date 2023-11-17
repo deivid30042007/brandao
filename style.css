@@ -40,3 +40,16 @@ form input {
     padding: 10px 25px;
     width: 50%;
 }
+<main>
+<form>
+<label> Grifinória </label>
+<input type="radio" value="grifinoria" id="radio-grifinoria">
+<label> Sonserina </label>
+<input type="radio" value="sonserina" id="radio-sonserina">
+<label> Lufa-Lufa </label>
+<input type="radio" value="lufa-lufa" id="radio-lufa-lufa">
+<label> Corvinal </label>
+<input type="radio" value="corvinal" id="radio-corvinal">
+<input type="submit" value="Enviar formulário" />
+</form>
+</main>
